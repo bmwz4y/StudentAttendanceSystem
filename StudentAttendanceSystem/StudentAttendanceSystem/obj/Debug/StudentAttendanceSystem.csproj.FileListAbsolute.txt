@@ -1,0 +1,10 @@
+C:\Users\YEH\Documents\Visual Studio 2013\Projects\StudentAttendanceSystem\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.exe.config
+C:\Users\YEH\Documents\Visual Studio 2013\Projects\StudentAttendanceSystem\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.exe
+C:\Users\YEH\Documents\Visual Studio 2013\Projects\StudentAttendanceSystem\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.pdb
+C:\Users\YEH\Documents\Visual Studio 2013\Projects\StudentAttendanceSystem\StudentAttendanceSystem\bin\Debug\MySql.Data.dll
+C:\Users\YEH\Documents\Visual Studio 2013\Projects\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.csprojResolveAssemblyReference.cache
+C:\Users\YEH\Documents\Visual Studio 2013\Projects\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form1.resources
+C:\Users\YEH\Documents\Visual Studio 2013\Projects\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Properties.Resources.resources
+C:\Users\YEH\Documents\Visual Studio 2013\Projects\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.csproj.GenerateResource.Cache
+C:\Users\YEH\Documents\Visual Studio 2013\Projects\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.exe
+C:\Users\YEH\Documents\Visual Studio 2013\Projects\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.pdb
